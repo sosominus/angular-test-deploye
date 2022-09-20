@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\PRID2122\\projects\\prid-tuto\\prid-tuto\\prid-tuto.csproj": {}
+  },
+  "projects": {
+    "F:\\PRID2122\\projects\\prid-tuto\\prid-tuto\\prid-tuto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\PRID2122\\projects\\prid-tuto\\prid-tuto\\prid-tuto.csproj",
+        "projectName": "prid-tuto",
+        "projectPath": "F:\\PRID2122\\projects\\prid-tuto\\prid-tuto\\prid-tuto.csproj",
+        "packagesPath": "C:\\Users\\sosominus\\.nuget\\packages\\",
+        "outputPath": "F:\\PRID2122\\projects\\prid-tuto\\prid-tuto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sosominus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "F:\\PRID2122\\tools\\dotnet-sdk\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
