@@ -9,7 +9,7 @@ using prid_tuto.Models;
 
 namespace prid_tuto.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("/api/[controller]")]
     [ApiController]
     public class UsersController : ControllerBase
     {
